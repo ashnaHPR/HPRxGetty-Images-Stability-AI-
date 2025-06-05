@@ -1,2 +1,3 @@
-# HPRxGetty-Images-Stability-AI-
-Stability AI x Getty Images mentions
+# Today's Getty Images & Stability AI News
+
+No articles found mentioning Getty Images and Stability AI for today.
