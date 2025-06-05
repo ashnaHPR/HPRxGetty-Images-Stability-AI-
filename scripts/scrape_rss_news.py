@@ -4,18 +4,20 @@ import pytz
 
 BST = pytz.timezone('Europe/London')
 
-# Only Google News RSS for Getty Images + Stability AI mentions
 google_news_feed = 'https://news.google.com/rss/search?q="Getty+Images"+"Stability+AI"&hl=en-GB&gl=GB&ceid=GB:en'
 
 def is_today_bst(pub_date):
     if not pub_date:
+        print("No published date.")
         return False
     try:
         dt_utc = datetime(*pub_date[:6], tzinfo=timezone.utc)
-    except Exception:
+    except Exception as e:
+        print(f"Date parse error: {e}")
         return False
     dt_bst = dt_utc.astimezone(BST)
     now_bst = datetime.now(BST)
+    print(f"Article date BST: {dt_bst.date()}, Today BST: {now_bst.date()}")
     return dt_bst.date() == now_bst.date()
 
 def contains_keywords(text):
@@ -26,7 +28,11 @@ def contains_keywords(text):
 
 articles = []
 
+print(f"Fetching feed: {google_news_feed}")
 d = feedparser.parse(google_news_feed)
+print(f"Feed status: {d.status if hasattr(d, 'status') else 'No status attribute'}")
+print(f"Entries found: {len(d.entries)}")
+
 for entry in d.entries:
     if hasattr(entry, 'published_parsed') and is_today_bst(entry.published_parsed):
         content_parts = []
@@ -40,6 +46,7 @@ for entry in d.entries:
             content_parts.extend([c.value for c in entry.content if hasattr(c, 'value')])
         full_content = ' '.join(content_parts).lower()
         if contains_keywords(full_content):
+            print(f"Article matched: {entry.title}")
             articles.append({
                 'publication': 'Google News',
                 'title': entry.title,
@@ -48,17 +55,4 @@ for entry in d.entries:
                 'summary': entry.get('summary', '')[:200] + '...' if entry.get('summary') else '',
             })
 
-readme_content = "# Today's Getty Images & Stability AI News\n\n"
-
-if articles:
-    readme_content += "| Date (BST) | Publication | Title | Summary |\n"
-    readme_content += "|------------|-------------|-------|---------|\n"
-    for art in articles:
-        readme_content += f"| {art['published']} | {art['publication']} | [{art['title']}]({art['link']}) | {art['summary']} |\n"
-else:
-    readme_content += "No articles found mentioning Getty Images and Stability AI for today.\n"
-
-with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print(f"README.md updated with {len(articles)} articles.")
+print(f"Total articles found: {len(
