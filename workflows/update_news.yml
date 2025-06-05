@@ -2,8 +2,8 @@ name: Update Stability AI News
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour
-  workflow_dispatch:
+    - cron: '0 * * * *'    # Runs every hour at minute 0
+  workflow_dispatch:        # Enables manual trigger via GitHub UI
 
 jobs:
   update-news:
@@ -31,6 +31,6 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "📰 Auto update Stability AI news" || echo "No changes"
+          git commit -m "📰 Auto update Stability AI news" || echo "No changes to commit"
           git pull --rebase origin main || echo "No changes to pull"
           git push origin main || echo "Nothing to push"
