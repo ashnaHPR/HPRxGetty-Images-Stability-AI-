@@ -1,9 +1,9 @@
-name: Update Getty-StabilityAI News
+name: Update Getty-Stability-AI News
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Every hour
-  workflow_dispatch:      # Manual trigger option
+    - cron: '0 * * * *'   # Runs every hour
+  workflow_dispatch:      # Allows manual trigger from Actions tab
 
 jobs:
   update-news:
@@ -23,14 +23,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser pytz
 
-      - name: Run news scraper
+      - name: Run news scraper script
         run: python scripts/scrape_rss_news.py
 
-      - name: Commit and push README
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "📥 Update Getty-Stability AI news" || echo "No changes to commit"
+          git commit -m "📥 Update Getty Images + Stability AI news" || echo "No changes to commit"
           git pull --rebase origin main || echo "No changes to pull"
-          git push origin main || echo "No changes to push"
+          git push origin main || echo "Nothing to push"
