@@ -1,3 +1,6 @@
 # Today's Getty Images & Stability AI News
 
-No articles found mentioning Getty Images and Stability AI for today.
+| Date (BST) | Publication | Title | Summary |
+|------------|-------------|-------|---------|
+| 2025-06-10 00:33:17 BST | Getty-Stability-AI-News | [Getty Images and Stability AI face off in British copyright trial that will test AI industry - Santa Cruz Sentinel](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmRvSGJWY29SeFlEaGkxcEFEZTZEelI1UEpSbGVjN1JiRnNPbWpLbVNGUjdCcFFnWWxzV1BiMVQwSjNrcklpczFPQThhc09FMlRFNnk3ZFVQeUNnSTRNNmwyT2REdkIxazlMcWRGbHlXTWlpcmpxSjBkSmFIMTJvX1kwalJsdw?oc=5) | <a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmRvSGJWY29SeFlEaGkxcEFEZTZEelI1UEpSbGVjN1JiRnNPbWpLbVNGUjdCcFFnWWxzV1BiMVQwSjNrcklpczFPQThhc09FMlRFNnk3ZFVQeUNnSTRNNmwyT2REdkIxazlMcWRGbH... |
+| 2025-06-10 00:34:30 BST | Getty-Stability-AI-News | [Getty Images and Stability AI face off in British copyright trial that will test AI industry - Loveland Reporter-Herald](https://news.google.com/rss/articles/CBMiggFBVV95cUxQejZqM19JWVVENTR0YVFEcmtSVnBBRkFSblhkMG9kUV94SW90MzFQMlFwVFNGWHlZTEhPSFdTNzVtZjRuajBmZ18wVmRHdm9mdHdNVWVqeDJpM21iUnpmR0hZTFp3dkI5M1dsTVdhbFFHdnVKSFFaV2ttdm9VQ0l3TXVB?oc=5) | <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQejZqM19JWVVENTR0YVFEcmtSVnBBRkFSblhkMG9kUV94SW90MzFQMlFwVFNGWHlZTEhPSFdTNzVtZjRuajBmZ18wVmRHdm9mdHdNVWVqeDJpM21iUnpmR0hZTFp3dkI5M1dsTVdhbF... |
