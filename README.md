@@ -1,6 +1,3 @@
 # Today's Getty Images & Stability AI News
 
-| Date (BST) | Publication | Title | Summary |
-|------------|-------------|-------|---------|
-| 2025-06-26 11:36:10 BST | Getty-Stability-AI-News | [Getty Images drops ‘key argument’ in its live trial against Stability AI - City AM](https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2NmemZsWk0zcUs1eFh3a19CdDBkU3FGNmJ3Ni1Yak1EQVJPekUzSUFwUDBKWERiRVZVRVB4VzdEUEN0Mm9YbXB0cUtfT1BXczR5RE5BM0ktMlExc1NIZFZuVkNUOERqc1BIWktyUTdaRmxubXk3aVUwYXZEVGlCSFA3ZXFPSFE5NkhxMFUwWHNHUkZEb0VrTzlB?oc=5) | <a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2NmemZsWk0zcUs1eFh3a19CdDBkU3FGNmJ3Ni1Yak1EQVJPekUzSUFwUDBKWERiRVZVRVB4VzdEUEN0Mm9YbXB0cUtfT1BXczR5RE5BM0ktMlExc1NIZFZuVkNUOERqc1BIWktyUT... |
-| 2025-06-26 11:31:32 BST | Getty-Stability-AI-News | [Getty Images Drops Main Copyright Claims Against Stability AI in UK Legal Case - PetaPixel](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZldoaEpra1dyX3Q5a203Ql9qNmE2ckQ3OHhKN05BYVJ6SEVNUFk3STkzUTlHZW1pSUJBRUtIUWdLMlp1ZkVXdzBPNV9nZ0Z2UWdmT0t5b1E0X214TXlFbllBUkNuSzliLVcyUkVEY291Yl9kUVcxUXo3RHhXdW1zaDN2Tk1EODc5T2haRzhyTHc4TlA2djNabnNrbjByM3BaaFVhUldTZkgwdERNSngyaVhR?oc=5) | <a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOZldoaEpra1dyX3Q5a203Ql9qNmE2ckQ3OHhKN05BYVJ6SEVNUFk3STkzUTlHZW1pSUJBRUtIUWdLMlp1ZkVXdzBPNV9nZ0Z2UWdmT0t5b1E0X214TXlFbllBUkNuSzliLVcyUkVEY2... |
+No articles found mentioning Getty Images and Stability AI for today.
