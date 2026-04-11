@@ -1,5 +1,3 @@
 # Today's Getty Images & Stability AI News
 
-| Date (BST) | Publication | Title | Summary |
-|------------|-------------|-------|---------|
-| 2026-04-11 01:39:46 BST | Getty-Stability-AI-News | [Stability AI largely wins UK court battle against Getty Images over copyright and trademark - MSN](https://news.google.com/rss/articles/CBMihgNBVV95cUxPemt2U3poRE8tQ1VKMnlvUDBwTC1VOUUtYmxXam5OSVptcXZUbWx0bFpGREt5dGg2UVNYOVZsTDM4Q1RrNVp0TDd6cXQ1QXo0UnNydUxRVlFWMEhfR21wbS1xSmJDNHh1QVVvcnVadExVaFVNS0FQS3RLeHdnU1FyTGNmNHM0RTJRamdnaGFXSUxvMjVPcjFqdzBtelFyYmlWZXFla3QxMkJvbkh1X1B5Q29VM25Pd1laZkkzWTM1dDIycExfZUFlOFM1Ujc2QTQ0Q3oxUmtkQjdIMHhZX3lwUUlBY1B5eVhBV3NCd2lqUFdYZXdMbUVJc1IwT2g0ZnhNeEZSbUZFbnVIOEgzem4yRmJKdkFDQmFHR2dhQ3hBWnpoc3dpU29hSUs1bzBiY213M0lJTVUybDB2Z2IzV0I4R3UyY0cwdGlDLTl5Q2FlcXEwNEhfMG5NZUx3Rm1ua0kwNFNQNG5qS0NyLTJCaXhxWllKM1JZUVJ2NXlYRzk4emVVaHAxYlE?oc=5) | <a href="https://news.google.com/rss/articles/CBMihgNBVV95cUxPemt2U3poRE8tQ1VKMnlvUDBwTC1VOUUtYmxXam5OSVptcXZUbWx0bFpGREt5dGg2UVNYOVZsTDM4Q1RrNVp0TDd6cXQ1QXo0UnNydUxRVlFWMEhfR21wbS1xSmJDNHh1QVVvcnVadE... |
+No articles found mentioning Getty Images and Stability AI for today.
